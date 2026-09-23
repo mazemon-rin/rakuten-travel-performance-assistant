@@ -33,10 +33,16 @@ python3 -m http.server 8765
 
 または、`index.html`をブラウザで直接開いて利用できます。保存先はブラウザのlocalStorageです。
 
+## 公開版
+
+GitHub Pagesで公開しています。
+
+https://mazemon-rin.github.io/rakuten-travel-performance-assistant/
+
 ## 注意事項
 
 文章は外部AI APIを使わないルールベース生成です。Threadsへの投稿は自動化せず、人間が内容を確認して手動投稿します。未確認の価格・割引・期限・空室などは確定情報として生成しません。楽天ROOMアプリとは別プロジェクト・別localStorageキーです。
 
 ## 次回
 
-Ver.0.1正式リリース後は、実データを1件ずつ登録し、生成文章、確認状態、PR表示、成果入力を人間が確認します。
+Ver.0.2「楽天トラベルAPI連携設計」へ進みます。APIキーやApplication ID等は、設計・安全確認が完了するまで設定しません。

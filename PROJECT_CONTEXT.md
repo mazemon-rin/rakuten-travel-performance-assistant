@@ -16,7 +16,7 @@ Repository予定名：`rakuten-travel-performance-assistant`
 
 - Version：`Ver.0.1 実運用確認済み`
 - Phase：`Ver.0.1 リリース判定`
-- 次回再開地点：`Ver.0.1 正式リリース`
+- 次回再開地点：`Ver.0.2 楽天トラベルAPI連携設計`
 
 ## 技術構成
 
@@ -136,3 +136,15 @@ Ver.0.1の一括実装を完了。ローカルブラウザで旅行情報の登�
 ### 次回再開地点
 
 `Ver.0.1 正式リリース`。楽天トラベルAPI、外部AI API、Threads自動投稿は引き続き実装しない。
+
+## Ver.0.1正式リリース（2026-09-23）
+
+- GitHub Repository：`https://github.com/mazemon-rin/rakuten-travel-performance-assistant`
+- 公開設定：Public
+- Release Commit：`3eab2d4fc87d1df98e7407a96864d11e73f4f582`
+- Tag：`v0.1.0`（Release Commitを指す）
+- GitHub Pages：`https://mazemon-rin.github.io/rakuten-travel-performance-assistant/`
+- Pages設定：`main` / `/`、HTTPS有効
+- 公開確認：HTTP 200、タイトル・CSS・JavaScript・主要画面を確認
+- 残課題：実データ運用、iPhone実機確認、楽天トラベルAPI連携設計
+- 次回再開地点：`Ver.0.2 楽天トラベルAPI連携設計`
